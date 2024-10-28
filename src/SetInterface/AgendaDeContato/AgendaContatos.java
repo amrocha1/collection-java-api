@@ -33,7 +33,7 @@ public class AgendaContatos {
         }
         return contatosPorNome;
     } else {
-        throw new RuntimeException("O Contato Não Existe");
+        throw new RuntimeException("O Contato Não Existe"); // não está exibindo a mensagem
     }
     }
 
