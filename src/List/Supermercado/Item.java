@@ -1,4 +1,4 @@
-package Supermercado;
+package List.Supermercado;
 
 public class Item {
 //    Atributos

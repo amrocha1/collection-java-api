@@ -1,4 +1,4 @@
-package Supermercado;
+package List.Supermercado;
 
 import java.lang.RuntimeException;
 import java.util.ArrayList;
