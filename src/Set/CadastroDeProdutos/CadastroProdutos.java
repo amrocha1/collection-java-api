@@ -1,6 +1,6 @@
-package SetInterface.CadastroDeProdutos;
+package Set.CadastroDeProdutos;
 
-import SetInterface.CadastroDeProdutos.Produto.ComparatorPorPreco;
+import Set.CadastroDeProdutos.Produto.ComparatorPorPreco;
 
 import java.util.HashSet;
 import java.util.Set;

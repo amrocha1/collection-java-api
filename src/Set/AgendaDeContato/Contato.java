@@ -1,4 +1,4 @@
-package SetInterface.AgendaDeContato;
+package Set.AgendaDeContato;
 
 import java.util.Objects;
 

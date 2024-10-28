@@ -1,4 +1,4 @@
-package SetInterface.CadastroDeProdutos;
+package Set.CadastroDeProdutos;
 
 import java.util.Comparator;
 import java.util.Objects;

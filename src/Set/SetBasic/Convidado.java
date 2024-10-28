@@ -1,4 +1,4 @@
-package SetInterface.SetBasic;
+package Set.SetBasic;
 
 import java.util.Objects;
 
